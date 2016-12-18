@@ -2,6 +2,7 @@
 Use this Python function you can find tags in your BeautifulSoup object by Xpath.
 
 But the Xpath must be smiple like:
+
 //*[@id="xxx"]/div[1]/a[1]  
 Maybe your xpath havn't tagname.it will be ok
   
